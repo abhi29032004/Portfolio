@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am proficient in languages like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Python , C and JavaScript . </b>
               </i>
               <br />
               <br />
@@ -32,12 +32,12 @@ function Home2() {
                 <b className="purple">Innovative web technologies and products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                exploring blockchain-related domains.
+                exploring Machine Learning .
                 </b>
               </i>
               <br />
               <br />
-              I also enjoy applying my skills in<b className="purple">Node.js</b> and
+              I also enjoy applying my skills in<b className="purple">DevOps</b> and
               <i>
                 <b className="purple">
                   {" "}
